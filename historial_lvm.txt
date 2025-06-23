@@ -1,0 +1,399 @@
+    1  whoami
+    2  ls -l
+    3  cd repogit
+    4  ls -l
+    5  ssh-keygen -t ed25519
+    6  cd ..
+    7  ls -l .ssh/
+    8  cat .ssh/id_ed25519.pub
+    9  exit
+   10  git clone 
+   11  git clone git@github.com:upszot/UTN-FRA_SO_Vagrant.git
+   12  ls
+   13  exit
+   14  man man
+   15  whoami
+   16  ls 
+   17  ls -l
+   18  ls -la
+   19  cd .ssh
+   20  ls -l
+   21  cat id_ed25519.pub
+   22  cd ...
+   23  cd ..
+   24  cat .ssh/id_ed25519.pub
+   25  mkdir clase4
+   26  ls -l
+   27  cd clase4
+   28  cat [200~ cat
+   29  cat > archivo1.txt
+   30  cd
+   31  q
+   32  tree
+   33  snap
+   34  ~$ snap install tree
+   35  snap install tree
+   36  sudo dnf install tree
+   37  sudo snap install tree
+   38  tree
+   39  cat /proc/cpuinfo | less
+   40  exit
+   41  snap install root-framework
+   42  groupadd Alumnos
+   43  sudo groupadd Alumnos
+   44  sudo cat/etc/groups
+   45  sudo cat /etc/group
+   46  useradd -m -s /bin/bash -c "Alumno Mia" -G Alumnos mia
+   47  sudo  useradd -m -s /bin/bash -c "Alumno Mia" -G Alumnos mia
+   48  sudo cat /etc/group
+   49  ls -l /home
+   50  sudo password Rosalia
+   51  sudo passwd mia
+   52  pdw
+   53  pwd
+   54  id
+   55  exit
+   56  whoami
+   57  ls 
+   58  cd clase4
+   59  whoami
+   60  id
+   61  /etc/passwd
+   62  grep vagrant /etc/passwd
+   63  cat /etc/shadow
+   64  sudo cat /etc/shadow
+   65  root
+   66  ls -l 
+   67  ls -l /home
+   68  cd /home/mia
+   69  ls -l
+   70  cd /home
+   71  cd Mia
+   72  cd mia
+   73  pwd
+   74  cd mia
+   75  ls -l
+   76  cd mia
+   77  pwd
+   78  cd mia
+   79  cd ...
+   80  cd mia
+   81  ls -l 
+   82  cd mia
+   83  pwd
+   84  /home
+   85  pwd
+   86  exit
+   87  mkdir clase5
+   88  ls -l
+   89  cd clase5
+   90  ls-l
+   91  ls -l 
+   92  echo linea1
+   93  echo linea1 > practical.txt
+   94  echo linea1 > practica2.txt
+   95  ls -l
+   96  chmod 600 practical.txt
+   97  ls -l
+   98  chmod 444 practica2.txt
+   99  ls -l
+  100  echo linea2 >> practica2.txt
+  101  sudo echo linea2 >> practica2.txt
+  102  chmod 600 practica2.txt
+  103  ls -l
+  104  echo linea2 >> practica2.txt
+  105  cat practica2.txt
+  106  cd ..
+  107  ls -l
+  108  chmod 777
+  109  chmod 777 clase5
+  110  ls -l
+  111  cd clase5
+  112  ls -l
+  113  cd ..
+  114  chmod R 777 clase5
+  115  chmod -R 777 clase5
+  116  cd cñase5
+  117  cd clase5
+  118  ls -l
+  119  clear
+  120  cd ..
+  121  ls -l
+  122  cat README
+  123  cd repogit
+  124  pwd
+  125  cd ..
+  126  echo "ls -l"
+  127  echo "ls -l" > script1
+  128  cat script1
+  129  bash script1
+  130  clear
+  131  pwd
+  132  ssh-keygen -t ed25519
+  133  exit
+  134  pwd
+  135  ssh-keygen -t ed25519
+  136  cat $HOME/.ssh/*.pub
+  137  ls -l
+  138  ls -la
+  139  ls -l /.shh
+  140  ls -l /.ssh
+  141  ls -l .ssh/
+  142  cat $HOME/.ssh/*.pub
+  143  pwd
+  144  cd repogit
+  145  ls -l 
+  146  git clone git@github.com:miapadillasena/TP_AySO_Padilla_Mia.git
+  147  ls -l 
+  148  cd TP_AySO_Padilla_Mia/
+  149  cat /etc/os-release
+  150  man grep
+  151  grep HOME_URL /etc/os-release 
+  152  grep home_url /etc/os-release 
+  153  grep -i home_url /etc/os-release 
+  154  grep -i home_url /etc/os-release > datos_url.txt
+  155  ls -l
+  156  cat datos_url.txt
+  157  git add
+  158  git add . 
+  159  exit
+  160  whoami
+  161  pwd
+  162  cd vagrant
+  163  cd /home/vagrant
+  164  ls -l
+  165  cd
+  166  cd clase5
+  167  ls -l
+  168  git clone git@github.com:miapadillasena/TP_AySO_Padilla_Mia.git
+  169  ls -l
+  170  cd repogit
+  171  ls -ls
+  172  cd TP_AySO_Padilla_Mia/
+  173  pwd 
+  174  ls -l 
+  175  whoami
+  176  id -un
+  177  whoami
+  178  id
+  179  last
+  180  su mia
+  181  sudo mia
+  182  mia
+  183  su mia
+  184  user
+  185  users
+  186  cat /etc/os-release
+  187  man grep
+  188  grep -i home_url /etc/os-release > datos_url.txt
+  189  whoami
+  190  echo "Usuario=$(whoami)" > datos_usuario.txt
+  191  exit
+  192  ls -l 
+  193  cd TP_AySO_Padilla_Mia/
+  194  git commit -m "ADD: agregado 1er
+  195  ejercicio sobre datos_usuarios.txt"
+  196  ls -l
+  197  rmdir  ç
+  198  rm ~/ç ~/ç.pub
+  199  ls -l
+  200  cd clase4
+  201  ls -l
+  202  pwd
+  203  cd clase5
+  204  cd repogit
+  205  cd ~/repogit
+  206  ls -l
+  207  TP_AySO_Padilla_Mia/
+  208  cd TP_AySO_Padilla_Mia/
+  209  man grep
+  210  grep -i HOME_URL /etc/os-release
+  211  grep home_url /etc/os-release
+  212  ls 
+  213  git add .
+  214  git config --global user.email "miapadillasena@gmail.com"
+  215  git config  --global user.name "miapadillasena"
+  216  git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+  217  git status
+  218  git push
+  219  grep "model name" /proc/cpuinfo | head -n1 >>
+  220  datos_usuarios.txt
+  221  grep "model name" /proc/cpuinfo | head -n1 >>
+  222  datos_usuario.txt
+  223  grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+  224  cat datos_usuario.txt
+  225  ls -l 
+  226  git add datos_usuario.txt 
+  227  git commit -m "feat: añadiendo informacion de CPU"
+  228  git push
+  229  cat <<EOF >> README.md
+  230  Alumno: <Mia-Padilla-Sena>
+  231  División: <115>
+  232  Turno: <Turno-Mañana>
+  233  EOF
+  234  git add README.md datos_usuario.txt
+  235  git commit -m "ADD: Añadiendo Readme y datos de usuario"
+  236  git push
+  237  mkdir -p {materia1,materia2}/uni{1..3} mk -p {materia1,materia2}/{uni1,uni2,uni3}
+  238  tree ~/materia1 ~/materia2
+  239  mkdir -p ~/materia{1,2}/uni{1..3}
+  240  tree /materia1/materia2
+  241  tree ~/materia1 ~/materia2
+  242  [200~echo 'mkdir -p ~/materia{1,2}/uni{1..3}' > script_dir.sh
+  243  ~echo 'mkdir -p ~/materia{1,2}/uni{1..3}' > script_dir.sh
+  244  echo 'mkdir -p ~/materia{1,2}/uni{1..3}' > script_dir.sh
+  245  chmod +x script_dir.sh
+  246  ./script_dir.sh
+  247  git add . 
+  248  git commit -m "ADD: añadiendo script"
+  249  git push
+  250  history -a
+  251  cp ~/.bash_history ./Historial_comandos_Padilla_Sena.txt
+  252  git add .
+  253  git commit -m "ADD: historial de comando de Padilla Sena"
+  254  git push
+  255  exit
+  256  ssh-keygen -t ed25519
+  257  cat $HOME/.ssh/*.pub
+  258  cd
+  259  mkdir repogit
+  260  cd repogit
+  261  git clone 
+  262  git clone git@github.com:miapadillasena/Thp-a.git
+  263  ls -l
+  264  cd TP_AySO_Padilla_Mia/
+  265  pwd
+  266  ls -l
+  267  git status
+  268  git add datos_usuario.txt
+  269  ls
+  270  git add .
+  271  git config --global user.email "miapadillasena@gmail.com"
+  272  git config --global user.name "miapadillasena"
+  273  pwd 
+  274  cd repogit
+  275  tree
+  276  clear 
+  277  ls -l 
+  278  cd TP_AySO_Padilla_Mia/
+  279  tree
+  280  clear 
+  281  clear
+  282  pwd 
+  283  tree
+  284  clear
+  285  cd ..
+  286  clear
+  287  ls -l
+  288  cd repogit/
+  289  ls -l 
+  290  TP_AySO_Padilla_Mia/
+  291  cd TP_AySO_Padilla_Mia/
+  292  ls -l 
+  293  cat script_dir.sh 
+  294  cd ..
+  295  clear
+  296  ls -l
+  297  cd repogit/
+  298  ls -l
+  299  TP_AySO_Padilla_Mia/
+  300  tree
+  301  exit 
+  302  pwd
+  303  ls -l
+  304  cd repogit/
+  305  ls -l
+  306  cd TP_AySO_Padilla_Mia/
+  307  tree
+  308  ls -l
+  309  cat script_dir.sh 
+  310  ./script_dir.sh 
+  311  eXIT
+  312  exit
+  313  sudo apt update
+  314  sudo apt install ansible -y 
+  315  ls -l
+  316  repogit/
+  317  cd repogit/
+  318  sudo apt update
+  319  sudo apt install ansible -y 
+  320  sudp apt list --installed |grep ansible
+  321  sudo apt list --installed |grep ansible
+  322  exit 
+  323  sudo apt-get remove docker docker-engine docker.io containerd runc
+  324  sudo apt-get update
+  325  sudo apt-get install apt-transport-https ca-certificates curl software-properties-common lsb-release gnupg
+  326  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/docker.gpg
+  327  echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/trusted.gpg.d/docker.gpg] https://download.docker.com/linux/ubuntu \
+  328    $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+  329  sudo apt-get update
+  330  sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+  331  sudo docker --version
+  332  sudo docker run hello-world
+  333  exit
+  334  sudo pvs
+  335  pvs
+  336  sudo pvs
+  337  sudo pvcreate /dev/sdd6
+  338  sudo vgextend vg_web /dev/sdd6
+  339  sudo vgs
+  340  sudo lvcreate -L 1G vg_web -n lv_web1
+  341  sudo lvcreate -L 512M vg_web -n lv_web3
+  342  sudo lvs
+  343  sudo pvs
+  344  sudo /dev/sdd3
+  345  sudo pvcreate /dev/sdd3
+  346  sudo pvs
+  347  sudo fdisk -l
+  348  sudo mkfs.ext4 /dev/mapper/vg_web-lv_web1
+  349  sudo mkfs.ext4 /dev/mapper/vg_web-lv_web2
+  350  sudo mkfs.ext4 /dev/mapper/vg_web-lv_web3
+  351  cd https://github.com/miapadillasena/TP2_AySO_Padilla_Mia.git
+  352  git clone https://github.com/miapadillasena/TP2_AySO_Padilla_Mia.git
+  353  sudo  pvs > pvs.txt
+  354  sudo vgs > vgs.txt
+  355  gti add . 
+  356  git add .
+  357  gti commit -m "Archivos"
+  358  git add.
+  359  git help
+  360  git add .
+  361  git commit -m "Archivos"
+  362  exit 
+  363  ls -l
+  364  cd TP2_AySO_Padilla_Mia/
+  365  ls -l 
+  366  sudo pvs > pvs.txt
+  367  sudo vgs > vgs.txt
+  368  sudo lvs > lvs.txt
+  369  history > historial_lvm.txt
+  370  git add . 
+  371  git commit -m "Historial agregado"
+  372  git push
+  373  git push origin main
+  374  git push
+  375  git clone git@github.com:miapadillasena/TP2_AySO_Padilla_Mia.git
+  376  ls -l
+  377  ..
+  378  cd ..
+  379  ls -l
+  380  rm TP2_AySO_Padilla_Mia/
+  381  rm r- TP2_AySO_Padilla_Mia/
+  382  rm -r TP2_AySO_Padilla_Mia/
+  383  ls -l 
+  384  rm -r TP2_AySO_Padilla_Mia/
+  385  Y
+  386  ls -l 
+  387  rm historial_lvm.txt 
+  388  rm lvs.txt 
+  389  rm pvs.txt 
+  390  rm vgs.txt 
+  391  ls -l 
+  392  rm default\: 
+  393  ls -l
+  394  git clone git@github.com:miapadillasena/TP2_AySO_Padilla_Mia.git
+  395  ls -l 
+  396  cd TP2_AySO_Padilla_Mia/
+  397  sudo pvs > pvs.txt 
+  398  sudo vgs > vgs.txt
+  399  history > historial_lvm.txt
